@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
  * @author ^_^
  */
 public class FlipFlop extends javax.swing.JFrame {
-String a;
+String a;string
 int b;
 int i;
     
